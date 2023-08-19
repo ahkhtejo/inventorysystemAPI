@@ -1,0 +1,90 @@
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\appsettings.Development.json
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\appsettings.json
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\inventory system API.exe
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\inventory system API.deps.json
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\inventory system API.runtimeconfig.json
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\inventory system API.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\inventory system API.pdb
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\projects\inventory system API\inventory system API\obj\Debug\net6.0\inventory system API.csproj.AssemblyReference.cache
+D:\projects\inventory system API\inventory system API\obj\Debug\net6.0\inventory system API.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\inventory system API\inventory system API\obj\Debug\net6.0\inventory system API.AssemblyInfoInputs.cache
+D:\projects\inventory system API\inventory system API\obj\Debug\net6.0\inventory system API.AssemblyInfo.cs
+D:\projects\inventory system API\inventory system API\obj\Debug\net6.0\inventory system API.csproj.CoreCompileInputs.cache
+D:\projects\inventory system API\inventory system API\obj\Debug\net6.0\inventory system API.MvcApplicationPartsAssemblyInfo.cs
+D:\projects\inventory system API\inventory system API\obj\Debug\net6.0\inventory system API.MvcApplicationPartsAssemblyInfo.cache
+D:\projects\inventory system API\inventory system API\obj\Debug\net6.0\staticwebassets.build.json
+D:\projects\inventory system API\inventory system API\obj\Debug\net6.0\staticwebassets.development.json
+D:\projects\inventory system API\inventory system API\obj\Debug\net6.0\scopedcss\bundle\inventory system API.styles.css
+D:\projects\inventory system API\inventory system API\obj\Debug\net6.0\inventory system API.csproj.CopyComplete
+D:\projects\inventory system API\inventory system API\obj\Debug\net6.0\inventory system API.dll
+D:\projects\inventory system API\inventory system API\obj\Debug\net6.0\refint\inventory system API.dll
+D:\projects\inventory system API\inventory system API\obj\Debug\net6.0\inventory system API.pdb
+D:\projects\inventory system API\inventory system API\obj\Debug\net6.0\inventory system API.genruntimeconfig.cache
+D:\projects\inventory system API\inventory system API\obj\Debug\net6.0\ref\inventory system API.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\Humanizer.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\System.CodeDom.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\System.Text.Json.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\Azure.Core.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\Azure.Identity.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\System.Memory.Data.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\Serilog.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\Serilog.Sinks.File.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\Serilog.Extensions.Logging.File.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\Serilog.Sinks.Async.dll
+D:\projects\inventory system API\inventory system API\bin\Debug\net6.0\Serilog.Sinks.RollingFile.dll
